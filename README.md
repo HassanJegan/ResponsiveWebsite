@@ -1,5 +1,5 @@
 # ResponsiveWebsite
-Overhauled a static html page into a mobile-friendly responsive page
+Overhauled a static html page into a mobile-friendly responsive page.
 
 The changes I made to the design of the original website to make it more mobile friendly are the following:
 
